@@ -1,3 +1,17 @@
 img {
     width: 30%;
 }
+
+section div {
+    border: 10px solid lightcoral;
+    border-radius: 15px;
+    margin: 10px;
+    width: 27%;
+    display: inline-block;
+    padding: 10px;
+    background-color: lightcyan;
+
+}
+section div h4 {
+    text-align: center;
+}
