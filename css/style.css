@@ -7,11 +7,9 @@ section div {
     border-radius: 15px;
     margin: 10px;
     width: 27%;
-    height: 200px;
-    float: left;
+    display: inline-block;
     padding: 10px;
     background-color: lightcyan;
- /* display: inline-block; cannot fix same width and height. So we had to use float with height information. */
 
 }
 section div h4 {
